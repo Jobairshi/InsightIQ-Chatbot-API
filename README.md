@@ -82,19 +82,3 @@ Here’s a **ready-to-paste** `README.md` file for your project:
 * **Port Conflicts:** Change the port in `faq_simple.py` if `8001` is busy.
 
 ---
-
-## 📄 License
-
-MIT License
-
-```
-
----
-
-Do you also want me to:  
-- **Add cool badges** (Python version, FastAPI, License, etc.) at the top?  
-- **Include sample `curl` requests** for each endpoint?  
-- **Add a "Contributing" & "Future Plans"** section (for open-source style)?  
-
-Which style do you prefer: **minimal & clean** or **fancy GitHub-pro style** with emojis & badges?
-```
