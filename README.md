@@ -1,5 +1,3 @@
-Here’s a **ready-to-paste** `README.md` file for your project:
-
 ````markdown
 # IntelliFAQ API
 
