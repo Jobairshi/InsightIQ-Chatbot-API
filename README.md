@@ -389,5 +389,3 @@ For support and questions:
 4. Enable debug logging for detailed error info
 
 ---
-
-**🎉 You now have a production-ready RAG-powered FAQ chatbot with advanced vector search capabilities!**
