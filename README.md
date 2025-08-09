@@ -68,12 +68,12 @@ Create `.env` file (automatically created from `.env.example`):
 # Azure OpenAI Configuration
 AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
 AZURE_OPENAI_API_KEY=your-azure-openai-api-key
-AZURE_OPENAI_API_VERSION=2024-02-15-preview
-AZURE_DEPLOYMENT_NAME=gpt-4o
+AZURE_OPENAI_API_VERSION=version
+AZURE_DEPLOYMENT_NAME=gpt
 AZURE_EMBEDDING_DEPLOYMENT=text-embedding-ada-002
 
 # Pinecone (Pre-configured)
-PINECONE_API_KEY=pcsk_4BnTBd_MWr6WTcLR1FH7MCATTLbKWMBah8becVf6KUecVUmzc5usoNsTjY6gQd2EGqNvVC
+PINECONE_API_KEY=pcsk_key
 ```
 
 ### 3. Start the Application
